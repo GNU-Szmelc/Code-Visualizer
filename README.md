@@ -1,2 +1,2 @@
 # Code-Visualizer
-![CVI - Code Visualizer](https://github.com/GNU-Szmelc/Code-Visualizer/assets/95081005/b46fb827-1295-4995-8d5c-7918df0dd784)
+![CVI - Code Visualizer (1)](https://github.com/GNU-Szmelc/Code-Visualizer/assets/95081005/36d9b16f-dcaf-45ce-a26d-6d5fa147f49f)
